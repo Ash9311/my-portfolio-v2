@@ -29,7 +29,7 @@ const About= () => {
             </h3>
             <p className="about-details">
             I did my Engineering in <a className='about-link-element' href='https://nmamit.nitte.edu.in/'> N.M.A.M Instite of Technology</a>. Spent wonderful 4 years at this institute.Developed problem solving skills significantly.
-Thanks to well balanced curriculum that i got ample time to dive into different domain and explore new ventures.
+Thanks to well balanced curriculum that i got ample time to dive into different domain and explore new venturess.
             </p>
 
             {/* sub section 3 */}
